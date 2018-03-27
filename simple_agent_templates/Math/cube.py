@@ -1,4 +1,5 @@
 class cls_agent_{id}:
+    print('this is my personal cube!')
     import warnings
     warnings.filterwarnings("ignore")
 
